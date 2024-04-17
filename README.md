@@ -9,3 +9,4 @@
 | [SIONIC AI](https://github.com/sionic-ai/Data_KoSuperNI/tree/main) | Apache-2.0 license | 질의응답 | task226_english_language_answer_relevance_classification |주어진 질의응답 쌍에서 어느 응답이 더 수용가능한지 평가       | 
 | [SIONIC AI](https://github.com/sionic-ai/Data_KoSuperNI/tree/main) | Apache-2.0 license | 요약 | task1290_Extreme-Summarization |  주어진 뉴스 기사 요약     |
 | [SIONIC AI](https://github.com/sionic-ai/Data_KoSuperNI/tree/main) | Apache-2.0 license | 요약 | task1499_dstc3_summarization_ko  | 캠브리지에 있는 펍, 레스토랑, 커피숍을 추천해달라는 자동화 시스템과 사용자 간의 대화와 이를 요약한 데이터            |
+| [SIONIC AI]([https://github.com/sionic-ai/Data_KoSuperNI/tree/main](https://github.com/sionic-ai/WikiQA/tree/main)) |  | 질의응답 | WikiQA  | WikiQA: A Challenge Dataset for Open-Domain Question Answering 데이터 세트에 대한 한국어 번역            |
