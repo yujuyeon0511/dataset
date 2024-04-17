@@ -31,3 +31,7 @@
 | --- | --- | --- | --- | --- | 
 | [maywell](https://huggingface.co/datasets/maywell/ko-gpt3_14k?row=29)  | 한국어 | 질의응답 | ko-gpt3_14k  | 일반적인 도메인에 대한 질문과 답변          |
 | [maywell](https://huggingface.co/datasets/maywell/gpt4_evol_1.3k)  | 영어 | 질의응답 | gpt4_evol_1.3k  | 일반적인 도메인에 대한 질문과 답변          |
+
+# GPT평가  질문 데이터셋 (240417)
+- 기타 참고 사이트
+공개 데이터셋 정리(https://blog.naver.com/jws2218/221930525326)
