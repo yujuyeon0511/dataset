@@ -16,6 +16,7 @@
 
 # RLHF 한국어 데이터셋 (240417)
 - 영어 데이터셋을 번역
+  
 | 기업명 | 라이센스 | 유형 | 데이터 이름 | 간략한 데이터 설명 |
 | --- | --- | --- | --- | --- | 
 | [SIONIC AI](https://github.com/sionic-ai/Data_Ko_hh-rlhf/tree/main)  |  | 대화(멀티턴) | Ko_hh-rlhf  | 유해한 출력을 줄이기 위한 공격 데이터 세트로 구축           |
