@@ -22,8 +22,7 @@ ko_wikidata_QA  |  Synatra-7B-Instruct 모델과 ChatGPT를 사용하여, 제작
 | --- | --- | --- | --- | --- | 
 | [SIONIC AI](https://github.com/sionic-ai/Data_Ko_hh-rlhf/tree/main)  |  | 대화(멀티턴) | Ko_hh-rlhf  | 유해한 출력을 줄이기 위한 공격 데이터 세트로 구축           |
 | [maywell](https://huggingface.co/datasets/maywell/ko_hh-rlhf-20k_filtered)  |  | 대화(멀티턴) | ko_hh-rlhf-20k_filtered  | Synatra-Translation 모델로 번역된 20k rlhf셋           |
-| [maywell](https://huggingface.co/datasets/maywell/ko_Ultrafeedback_binarized?row=0)  |  | 싱글턴 | 
-ko_Ultrafeedback_binarized   | ynatra-7B-Translation 모델을 통해 Ultrafeedback_binarized를 번역하고 정제한 데이터셋           |
+| [maywell](https://huggingface.co/datasets/maywell/ko_Ultrafeedback_binarized?row=0)  |  | 싱글턴 | ko_Ultrafeedback_binarized   | ynatra-7B-Translation 모델을 통해 Ultrafeedback_binarized를 번역하고 정제한 데이터셋           |
 
 
 # GPT평가  질문 데이터셋 (240417)
