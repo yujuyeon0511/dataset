@@ -9,10 +9,9 @@
 | [SIONIC AI](https://github.com/sionic-ai/Data_KoSuperNI/tree/main) | Apache-2.0 license | 질의응답 | task226_english_language_answer_relevance_classification |주어진 질의응답 쌍에서 어느 응답이 더 수용가능한지 평가       | 
 | [SIONIC AI](https://github.com/sionic-ai/Data_KoSuperNI/tree/main) | Apache-2.0 license | 요약 | task1290_Extreme-Summarization |  주어진 뉴스 기사 요약     |
 | [SIONIC AI](https://github.com/sionic-ai/Data_KoSuperNI/tree/main) | Apache-2.0 license | 요약 | task1499_dstc3_summarization_ko  | 캠브리지에 있는 펍, 레스토랑, 커피숍을 추천해달라는 자동화 시스템과 사용자 간의 대화와 이를 요약한 데이터            |
-| [SIONIC AI](https://github.com/sionic-ai/WikiQA/tree/main)  |  | 질의응답 | WikiQA  | WikiQA: A Challenge Dataset for Open-Domain Question Answering 데이터 세트에 대한 한국어 번역            |
+| [SIONIC AI](https://github.com/sionic-ai/WikiQA/tree/main)  |  | 질의응답 | WikiQA  | WikiQA: A Challenge Dataset for Open-Domain Question Answering 데이터 세트에 대한 한국어 번역      |
 | [SIONIC AI](https://github.com/sionic-ai/CICERO_Ko/tree/main)  |  | 대화(멀티턴) | CICERO  | Contextualized Commonsense Inference in Dialogues           |
-| [maywell](https://huggingface.co/datasets/maywell/ko_wikidata_QA)  |  | 질의응답 | 
-ko_wikidata_QA  |  Synatra-7B-Instruct 모델과 ChatGPT를 사용하여, 제작된 QA셋           |
+| [maywell](https://huggingface.co/datasets/maywell/ko_wikidata_QA)  |  | 질의응답 | ko_wikidata_QA  |  Synatra-7B-Instruct 모델과 ChatGPT를 사용하여, 제작된 QA셋           |
 
 
 # RLHF 한국어 데이터셋 (240417)
@@ -29,5 +28,5 @@ ko_wikidata_QA  |  Synatra-7B-Instruct 모델과 ChatGPT를 사용하여, 제작
 - 영어 데이터셋을 번역
 | 기업명 | 언어 | 유형 | 비교 모델 | 간략한 데이터 설명 |
 | --- | --- | --- | --- | --- | 
-| [maywell](https://huggingface.co/datasets/maywell/ko-gpt3_14k?row=29)  | 한국어 | 대화(멀티턴) | ko-gpt3_14k  | 일반적인 도메인에 대한 질문과 답변          |
-| [maywell](https://huggingface.co/datasets/maywell/gpt4_evol_1.3k)  | 영어 | 대화(멀티턴) | gpt4_evol_1.3k  | 일반적인 도메인에 대한 질문과 답변          |
+| [maywell](https://huggingface.co/datasets/maywell/ko-gpt3_14k?row=29)  | 한국어 | 질의응답 | ko-gpt3_14k  | 일반적인 도메인에 대한 질문과 답변          |
+| [maywell](https://huggingface.co/datasets/maywell/gpt4_evol_1.3k)  | 영어 | 질의응답 | gpt4_evol_1.3k  | 일반적인 도메인에 대한 질문과 답변          |
